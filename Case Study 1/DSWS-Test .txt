@@ -1,5 +1,0 @@
-﻿Mpg data
-1. The information about the gear type per model is in the column “trans”. Add a column to the data frame showing if the gear is ‘manual’ or ‘auto’. 
-2. There are model strings which also contain the manufacturer name. Remove the manufacturer name in the models strings.
-3. Write a function which takes the manufacturer name as input and returns all models belonging to the manufacturer as output. 
-4. Create a data frame showing the average ‘displ’ value per year. There should be one column per year (wide format).
